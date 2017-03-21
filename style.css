@@ -1,0 +1,83 @@
+<style>
+h1 {
+  color: white;
+  font-family: cursive;
+  text-align: center;
+  text-transform: uppercase;
+  font-size:300%;
+  justify-content: space-around;
+}
+body {
+
+  background: url('https://imgs-tuts-dragoart-386112.c.cdn77.org/how-to-draw-a-halloween-devil-halloween-devil_1_000000009774_5.jpg')
+
+}
+
+.zanr {
+  color: white;
+  font-size: 200%;
+  margin: 80px;
+}
+
+.autor {
+  background-color: white;
+  width: 300px;
+  margin-left: 450px;
+  color: red;
+  padding-left: 30px;
+}
+.zdroj {
+  background-color: white;
+  width: 300px;
+  margin-left: 450px;
+  color: red;
+  padding-left: 30px;
+}
+#uvod {
+  margin-left: 50px;
+  font-weight:bold;
+  color: white;
+  font-size: 140%;
+}
+#pytel {
+  margin-left: 50px;
+  font-weight:bold;
+  color: white;
+  font-size: 140%;
+
+}
+#soutez {
+  margin-left: 50px;
+  font-weight:bold;
+  color:white;
+  font-size: 140%;
+  border: 5px solid black;
+}
+#zaver {
+  margin-left: 50px;
+  font-weight:bold;
+  color:white ;
+  font-size: 140%;
+}
+
+h2 {
+  text-decoration: underline;
+  line-height: 90%;
+  font-size: 200%;
+  margin: 60px;
+  font-style: oblique;
+
+}
+.end {
+  float: right;
+  color: white;
+  font-size: 300%;
+  margin-right: 80px;
+}
+.extra {
+  font-weight: bold;
+}
+
+  
+    
+  </style>
