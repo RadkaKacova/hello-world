@@ -1,0 +1,119 @@
+<style>
+    #text {
+  	margin-left: 800px;
+
+  }
+  h1 {
+  	color:red;
+  	background-color: black;
+  	width: 950px;
+  	height: 1px;
+  	padding-left: : 200px;
+  	font-size: 1000%;
+  	font-family: comic;
+  	padding: 200px;
+  	padding-left: 500px;
+  	margin-top: 1px;
+  	padding-bottom: 250px;
+  	padding-top: 130px;
+
+  }
+  h2 {
+  	color: white;
+  	font-family: comic;
+  	background-color: black;
+  	position: relative;
+  	top: -200px;
+  	padding-left: 200px;
+  	font-size: 200%;
+  }
+  h3 {
+  	text-transform: uppercase;
+  	font-size: 400%;
+  	font-weight: bold;
+  	padding-right:300px;
+  	margin-left: 200px;
+
+
+  }
+  h4 {
+  	color: white;
+  	background-color: red ;
+  	width: 120px;
+  	position: relative;
+  	top: -200px;
+  	margin-left: 200px;
+  	font-size: 120%;
+  	padding-left: 10px;
+  }
+  h5 {
+  	color: grey;
+  	margin-left: 350px;
+  	position: relative;
+  	top: -300px;
+  }
+  h6 {
+  	font-size: 200%;
+  }
+  .prvy{
+  	margin-left: 200px;
+  }
+  
+  .obrazok {
+  	width: 200px;
+  	margin-top: -1200px;
+  	padding-right: 20px;
+  	margin-left: 40px;
+  	
+  }
+  .titulny {
+  	border: solid;
+  	color:red;
+  	width: 600px;
+  	margin-left: 200px;
+  }
+  
+  .reklama {
+  	width: 400px;
+  	float: right;
+  	margin-right: 50px;
+  	padding-top: 50px;
+
+  }
+ .autor{
+ 	margin-left: 200px;
+
+ }
+ .zdroj{
+ 	margin-left: 200px;
+ }
+
+ #uvod {
+ 	margin-left: 200px;
+ 	width: 600px;
+ }
+ #pytel {
+ 	margin-left: 200px;
+ 	width: 600px;
+ }
+ #soutez {
+ 	margin-left: 200px;
+ 	width: 600px;
+ }
+ #zaver {
+ 	margin-left: 200px;
+ 	width: 600px;
+ }
+ #koniec {
+ 	margin-left: 200px;
+ 	width: 600px;
+ }
+ #vrch {
+ 	color: grey;
+  	margin-left: 1100px;
+  	position: relative;
+  	top: -500px;
+
+ }
+    
+  </style>
