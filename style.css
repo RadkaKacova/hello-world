@@ -1,0 +1,83 @@
+<style>
+
+h1 {
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 300px;
+  line-height: 300px;
+
+}
+
+body {
+  background: url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/polonez_car.png')
+}
+
+.zanr {
+  color: black;
+  font-size: 50px;
+  margin: 80px;
+}
+
+.autor {
+ 
+  width: 300px;
+  margin-left: 450px;
+  color: black;
+  padding-left: 30px;
+}
+.zdroj {
+  
+  width: 300px;
+  margin-left: 450px;
+  color: black;
+  padding-left: 30px;
+}
+#uvod {
+  margin-left: 50px;
+  font-weight:bold;
+  color: black;
+  font-size: 140%;
+}
+#pytel {
+  margin-left: 50px;
+  font-weight:bold;
+  color: black;
+  font-size: 140%;
+
+}
+#soutez {
+  margin-left: 50px;
+  font-weight:bold;
+  color:black;
+  font-size: 140%;
+  border: 5px solid black;
+}
+#zaver {
+  margin-left: 50px;
+  font-weight:bold;
+  color:black ;
+  font-size: 140%;
+}
+
+h2 {
+  text-decoration: underline;
+  line-height: 90%;
+  font-size: 200%;
+  margin: 60px;
+  font-style: oblique;
+
+}
+.end {
+  float: right;
+  color: black;
+  font-size: 300%;
+  margin-right: 80px;
+}
+.extra {
+  font-weight: bold;
+}
+
+  
+    
+  </style>
